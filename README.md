@@ -38,8 +38,8 @@ Use cv2.warpPerspective(image,M,(int(cols*1.5),int(rows*1.5))) for x and y axis 
 <br>End the program
 ## Program:
 
-### Developed By: Vinush.CV
-### Register Number: 212222230176
+### Developed By: Elamaran S E
+### Register Number: 212222230036
 ```python
 import cv2
 import numpy as np
